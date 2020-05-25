@@ -8,6 +8,7 @@ import androidx.navigation.NavDestination
 import androidx.navigation.findNavController
 import androidx.navigation.ui.NavigationUI.navigateUp
 import androidx.navigation.ui.setupActionBarWithNavController
+import androidx.navigation.ui.setupWithNavController
 import com.nfragiskatos.android.gdgfinder.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
